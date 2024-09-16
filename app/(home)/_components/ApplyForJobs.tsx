@@ -21,7 +21,7 @@ const ApplyForJobs = () => {
           className="space-y-6 text-center text-white"
         >
           <h2 className="text-5xl font-extrabold leading-tight">
-            إالتقديم الآن للوظائف الموسمية
+            التقديم الآن للوظائف الموسمية
           </h2>
           <p className="mx-auto text-xl leading-loose lg:w-[60rem]">
             التقديم للوظائف الموسمية لإدارة الحشود بقطار المشاعر المقدسة لموسم
