@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 
 const Hero = () => {
   return (
-    <header className="h-[calc(100vh-88px)] lg:h-[calc(100vh-10rem)] lg:px-10">
+    <header className="h-96 sm:h-[calc(100vh-88px)] lg:h-[calc(100vh-10rem)] lg:px-10">
       <div className="gradient relative flex h-full items-center justify-center overflow-hidden lg:rounded-3xl">
         <motion.div
           initial={{ y: -100, opacity: 0 }}
@@ -18,7 +18,7 @@ const Hero = () => {
           }}
           className="space-y-14 px-6"
         >
-          <h1 className="text-center text-5xl font-black leading-tight text-white lg:w-[50rem]">
+          <h1 className="text-center text-3xl font-black leading-tight text-white sm:text-5xl lg:w-[50rem]">
             التقديم للوظائف الموسمية لإدارة الحشود بقطار المشاعر المقدسة لموسم
             حج 1445 هـ
           </h1>
