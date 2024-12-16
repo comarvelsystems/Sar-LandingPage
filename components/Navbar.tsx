@@ -13,17 +13,23 @@ const Navbar = () => {
         <ul className="flex items-center gap-x-4">
           <li>
             <Button variant="ghost" className="font-bold" asChild>
-              <Link href="/work-journey">رحلة العمل الموسمي</Link>
+              <Link href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/">
+                رحلة العمل الموسمي
+              </Link>
             </Button>
           </li>
           <li>
             <Button variant="ghost" className="font-bold" asChild>
-              <Link href="#">الدخول</Link>
+              <Link href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/login">
+                الدخول
+              </Link>
             </Button>
           </li>
           <li>
             <Button className="font-bold" asChild>
-              <Link href="/register">التقديم الآن</Link>
+              <Link href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/register">
+                التقديم الآن
+              </Link>
             </Button>
           </li>
         </ul>
