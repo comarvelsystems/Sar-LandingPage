@@ -45,7 +45,7 @@ const Navbar = () => {
           </li>
         </ul>
         <Sheet>
-          <SheetTrigger asChild>
+          <SheetTrigger asChild className="flex lg:hidden">
             <Button size="icon" className="shrink-0">
               <MenuIcon />
             </Button>
