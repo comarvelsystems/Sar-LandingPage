@@ -38,7 +38,7 @@ const Navbar = () => {
           </li>
           <li>
             <Button className="font-bold" asChild>
-              <Link href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/register">
+              <Link href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/login">
                 التقديم الآن
               </Link>
             </Button>
@@ -87,7 +87,7 @@ const Navbar = () => {
               <Separator className="my-2" />
               <div>
                 <Link
-                  href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/register"
+                  href="https://sar-2025-q8b1142ij-marvel-systems-projects.vercel.app/login"
                   className="block py-3 font-semibold duration-500 hover:text-primary"
                 >
                   التقديم الآن
