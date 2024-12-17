@@ -18,9 +18,9 @@ const Hero = () => {
           }}
           className="space-y-14 px-6"
         >
-          <h1 className="text-center text-3xl font-black leading-tight text-white sm:text-5xl lg:w-[50rem]">
+          <h1 className="text-center text-3xl font-black leading-loose text-white sm:text-5xl lg:w-[50rem]">
             التقديم للوظائف الموسمية لإدارة الحشود بقطار المشاعر المقدسة لموسم
-            حج 1445 هـ
+            حج 1446 هـ
           </h1>
           <Button
             className="mx-auto block font-bold"

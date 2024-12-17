@@ -25,7 +25,7 @@ const ApplyForJobs = () => {
           </h2>
           <p className="mx-auto text-xl leading-loose lg:w-[60rem]">
             التقديم للوظائف الموسمية لإدارة الحشود بقطار المشاعر المقدسة لموسم
-            حج 1445 هـ كل ما عليك فعله هو ملئ استمارة التسجيل عبر الضغط على زر
+            حج 1446 هـ كل ما عليك فعله هو ملئ استمارة التسجيل عبر الضغط على زر
             التقديم الآن بالأسفل
           </p>
           <Button size="xl" variant="secondary" className="font-bold" asChild>

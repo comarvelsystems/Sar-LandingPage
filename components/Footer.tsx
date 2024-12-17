@@ -22,7 +22,7 @@ const Footer = () => {
           className="opacity-50"
         />
         <p className="text-center text-muted-foreground">
-          جميع الحقوق محفوظة © 2024
+          جميع الحقوق محفوظة © 2025
         </p>
       </motion.div>
     </footer>
