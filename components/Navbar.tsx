@@ -24,19 +24,23 @@ const Navbar = () => {
         <ul className="hidden items-center gap-x-4 lg:flex">
           <li>
             <Button variant="ghost" className="font-bold" asChild>
-              <Link href="https://sar-2025.vercel.app/">
+              <Link href="https://marvel-sar-2025.vercel.app/">
                 رحلة العمل الموسمي
               </Link>
             </Button>
           </li>
           <li>
             <Button variant="ghost" className="font-bold" asChild>
-              <Link href="https://sar-2025.vercel.app/login">الدخول</Link>
+              <Link href="https://marvel-sar-2025.vercel.app/login">
+                الدخول
+              </Link>
             </Button>
           </li>
           <li>
             <Button className="font-bold" asChild>
-              <Link href="https://sar-2025.vercel.app/login">التقديم الآن</Link>
+              <Link href="https://marvel-sar-2025.vercel.app/login">
+                التقديم الآن
+              </Link>
             </Button>
           </li>
         </ul>
@@ -65,7 +69,7 @@ const Navbar = () => {
             <ScrollArea className="mt-10 w-full">
               <div>
                 <Link
-                  href="https://sar-2025.vercel.app/"
+                  href="https://marvel-sar-2025.vercel.app/"
                   className="block py-3 font-semibold duration-500 hover:text-primary"
                 >
                   رحلة العمل الموسمي
@@ -74,7 +78,7 @@ const Navbar = () => {
               <Separator className="my-2" />
               <div>
                 <Link
-                  href="https://sar-2025.vercel.app/login"
+                  href="https://marvel-sar-2025.vercel.app/login"
                   className="block py-3 font-semibold duration-500 hover:text-primary"
                 >
                   الدخول
@@ -83,7 +87,7 @@ const Navbar = () => {
               <Separator className="my-2" />
               <div>
                 <Link
-                  href="https://sar-2025.vercel.app/login"
+                  href="https://marvel-sar-2025.vercel.app/login"
                   className="block py-3 font-semibold duration-500 hover:text-primary"
                 >
                   التقديم الآن

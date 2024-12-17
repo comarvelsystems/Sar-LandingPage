@@ -28,7 +28,7 @@ const Hero = () => {
             size="xl"
           >
             <Link
-              href="https://sar-2025.vercel.app/login"
+              href="https://marvel-sar-2025.vercel.app/login"
               className="flex items-center gap-x-2"
             >
               <ScrollText />
