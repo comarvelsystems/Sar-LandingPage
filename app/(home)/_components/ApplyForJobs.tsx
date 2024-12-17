@@ -29,7 +29,7 @@ const ApplyForJobs = () => {
             التقديم الآن بالأسفل
           </p>
           <Button size="xl" variant="secondary" className="font-bold" asChild>
-            <Link href="/register">التقديم الآن</Link>
+            <Link href="https://sar-2025.vercel.app/login">التقديم الآن</Link>
           </Button>
         </motion.div>
       </motion.div>

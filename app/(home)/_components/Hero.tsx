@@ -27,7 +27,10 @@ const Hero = () => {
             variant="secondary"
             size="xl"
           >
-            <Link href="/register" className="flex items-center gap-x-2">
+            <Link
+              href="https://sar-2025.vercel.app/login"
+              className="flex items-center gap-x-2"
+            >
               <ScrollText />
               التقديم الآن
             </Link>
